@@ -7,9 +7,9 @@
 ### Maintained by **DΞΞZNUTZ**
 
 ---
-### 🤝🏻 **Buy me a coffee?**
-* Github Sponsor: [**Sponsor**](https://github.com/sponsors/daizeuz-dred)
-* Sociabuzz: [**Sponsor**](https://sociabuzz.com/daizeuzdred/tribe)
+# 🤝🏻 **Buy me a coffee?**
+### Github Sponsor: [**Sponsor**](https://github.com/sponsors/daizeuz-dred)
+### Sociabuzz: [**Sponsor**](https://sociabuzz.com/daizeuzdred/tribe)
 ---
 
 # 🚀 Release Changelog — July 03, 2026
