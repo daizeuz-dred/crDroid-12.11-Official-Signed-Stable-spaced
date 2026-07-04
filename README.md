@@ -2,9 +2,9 @@
 
 # crDroid 12.11 QPR2 | Stable | Signed | OFFICIAL 
 
-### Realme 8i / Narzo 50 (`spaced`)
-### Android 16  
-### July 4, 2026
+### Device: Realme 8i / Narzo 50 (`spaced`)
+### Android Version: Android 16  
+### Release Date: July 4, 2026
 ### Maintained by **DΞΞZNUTZ**
 
 ---
